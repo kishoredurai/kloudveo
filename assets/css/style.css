@@ -1887,10 +1887,17 @@ text-align: center;
 #buy-tickets .btn:hover {
   background-color: #e0072f;
 }
-}
 
 
 
-.socialx a {
-  padding: 0 .5em;
+.btn1 {
+  background-color: #0563bb  ; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  border-radius: 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
 }
